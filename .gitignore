@@ -1,0 +1,4 @@
+release.tar.gz
+*.key
+*.secret
+node_modules/
